@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dovy-Codes I am currently doing a two year IT course.
 - 👀 I’m interested in photography, skateboarding, gaming.
-- 🌱 I’m currently learning Python, HTML, CSS
+- 🌱 I’m currently learning Python, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on various projects, you are welcome to message me with suggestions.
 - 📫 Best way to reach me is my email d.pocius93@gmail.com
 
