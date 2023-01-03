@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on various projects, you are welcome to message me with suggestions.
 - 📫 Best way to reach me is my email d.pocius93@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dirigentas&layout=compact)](https://github.com/Dirigentas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dovy-Codes&layout=compact)](https://github.com/Dovy-Codes/github-readme-stats)
 
-[![Dirigentas GitHub stats](https://github-readme-stats.vercel.app/api?username=Dirigentas)](https://github.com/Dirigentas/github-readme-stats)
+[![Dovy-Codes GitHub stats](https://github-readme-stats.vercel.app/api?username=Dovy-Codes)](https://github.com/Dovy-Codes/github-readme-stats)
 
 <!---
 
