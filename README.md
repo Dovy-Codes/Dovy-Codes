@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dovy-Codes I am currently doing a two year IT course.
+- 👋 Hi, I’m @Dovy-Codes I am currently Software Developing course.
 - 👀 I’m interested in photography, skateboarding, gaming.
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on various projects, you are welcome to message me with suggestions.
