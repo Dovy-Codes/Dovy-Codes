@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dovy-Codes I am currently Software Developing course.
+- 👋 Hi, I’m @Dovy-Codes I am currently on Software Developing course.
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on various projects, you are welcome to message me with suggestions.
 - 📫 Best way to reach me is my email d.pocius93@gmail.com
