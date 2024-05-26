@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dovy-Codes I am currently on Software Developing course.
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on various projects, you are welcome to message me with suggestions.
-- 📫 Best way to reach me is my email d.pocius93@gmail.com
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dovy-Codes&layout=compact)](https://github.com/Dovy-Codes/github-readme-stats)
 
